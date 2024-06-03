@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: anilsai1234/anilrepo-batch13:xyz
+        image: anilsai1234/anilrepo-batch13:3
         ports:
         - containerPort: 8080
 
